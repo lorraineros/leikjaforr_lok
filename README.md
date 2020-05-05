@@ -7,9 +7,13 @@
  
 ### 3. What best describes the difference between the below images, where the car is in the second image is further along the road?
 * image 1
+
 ![](https://connect-prd-cdn.unity.com/20190812/learn/images/fc7c1c47-3492-4254-81f7-8163b28dae14_Quiz_1.3.A.png.2000x0x1.webp)
+
 * image 2
+
 ![](https://connect-prd-cdn.unity.com/20190812/learn/images/a3e7d380-154f-4d1a-ad67-e990ac45ef74_Quiz_1.3.B.png.2000x0x1.webp)
+
 * The second car’s Z location value is higher than the first car’s
 
 ### 4. In what order do you put the words when you are declaring a new variable?
