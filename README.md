@@ -1,3 +1,8 @@
+# leikjaforr_lok
+![](https://raw.githubusercontent.com/lorraineros/leikjaforr_lok/master/docs/pics/Screenshot_2020-05-07%20Quiz%201%20-%20Unity%20Learn(1).png)
+![](https://raw.githubusercontent.com/lorraineros/leikjaforr_lok/master/docs/pics/Screenshot_2020-05-07%20Quiz%202%20-%20Unity%20Learn.png)
+![](https://raw.githubusercontent.com/lorraineros/leikjaforr_lok/master/docs/pics/Screenshot_2020-05-07%20Quiz%203%20-%20Unity%20Learn.png)
+
 # Quiz 1
 ![](https://raw.githubusercontent.com/lorraineros/leikjaforr_lok/master/docs/pics/quiz1/Screenshot%20(11).png)
 ![](https://raw.githubusercontent.com/lorraineros/leikjaforr_lok/master/docs/pics/quiz1/Screenshot%20(12).png)
